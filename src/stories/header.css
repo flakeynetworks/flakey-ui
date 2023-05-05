@@ -7,6 +7,10 @@
   justify-content: space-between;
 }
 
+img.fn_logo {
+  max-height:2em
+}
+
 svg {
   display: inline-block;
   vertical-align: top;
