@@ -3,6 +3,11 @@ import './spinner.css';
 
 export const Spinner = () => {
   return (
-    <div className="fn_spinner"></div>
+      <div className="fn_loader">
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+      </div>
   );
 };
