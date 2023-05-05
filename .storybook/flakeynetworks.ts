@@ -4,6 +4,6 @@ export default create({
     base: 'dark',
     brandTitle: 'FlakeyNetworks',
     brandUrl: 'https://flakeynetworks.co.uk',
-    brandImage: 'logo.webp',
+    brandImage: 'logo-storybook.webp',
     brandTarget: '_self',
 });
